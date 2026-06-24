@@ -1,12 +1,13 @@
 # Project CLI Pyhton
 
 ## Deskripsi
-Aplikasi data nilai siswa CLI sederhana menggunakan Pyhton Fundamental
+Aplikasi ToDoList CLI sederhana menggunakan Pyhton Fundamental
 
 ## Fitur
-- Tambah data
-- Menampilkan data
-- Keluar
+- Tambah tugas
+- Lihat tugas
+- hapus tugas
+- Tandai tugas selesai
 
 ## Tekhnologi
 - Pyhton
